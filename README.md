@@ -4,7 +4,7 @@ An Advanced Conversational Autonomous AI Agent
 
 ## Overview
 
-AutoDevAI isan autonomous AI agent is designed to be an advanced conversational partner that can access and interact with the internet. It has the ability to develop its own personality and memory, using those memories to provide more personalized responses. Additionally, the agent is capable of generating code for anything that the user needs, using its knowledge of programming languages and libraries. The AI agent is user-friendly and easy to interact with.
+AutoDevAI is an autonomous AI agent is designed to be an advanced conversational partner that can access and interact with the internet. It has the ability to develop its own personality and memory, using those memories to provide more personalized responses. Additionally, the agent is capable of generating code for anything that the user needs, using its knowledge of programming languages and libraries. The AI agent is user-friendly and easy to interact with.
 
 ## Features
 
